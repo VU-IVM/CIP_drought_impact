@@ -5,9 +5,8 @@ The  purpose  of  this  assignment  is  that  students  learn  to  apply  the  m
 
 The assignments should be made individually.
 
-# How to get the assignments up and running:
-
-Go to: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/semvijverberg/ClimatePolicy/master)
+# Gett the assignments up and running:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VU-IVM/CIP_drought_impact.git/master)
 
 Or download this repository and install a virtual environment. Recommended option is to use a [miniconda](https://conda.io/miniconda.html)
 environment to work in for this project, relying on conda to handle some of the
