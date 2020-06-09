@@ -3,7 +3,11 @@ name: ClimatePolicy
 dependencies:
         - python=3.6
         - numpy
+<<<<<<< HEAD
         - pandas=1.0.3
+=======
+        - pandas
+>>>>>>> 639a42a7d1dbb421acfa5894cb0f2f82cc7ae2be
         - geopandas
         - rasterio
         - xarray
