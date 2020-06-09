@@ -106,3 +106,6 @@ venv.bak/
 # added manually by Sem
 .DS_Store
 Drought Risk Assignment/Answers/
+.ipynb_checkpoints
+Notebooks/__pycache__
+Notebooks/.ipynb_checkpoints
