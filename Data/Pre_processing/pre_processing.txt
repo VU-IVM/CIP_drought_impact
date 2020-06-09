@@ -1,0 +1,2 @@
+cdo selyear,1979/2018 -sellonlatbox,342,53,-35,37.5 infile outfile
+cdo sellonlatbox,140,290,-20,20 sst_1979-2018_1jan_31dec_daily_2.5deg.nc sst_Trop_Pacific.nc
