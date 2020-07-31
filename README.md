@@ -13,7 +13,7 @@ Extact the zip file that was downloaded from Canvas. Copy the folder to the goog
 ## Conda installation.
 First install Conda, see [miniconda](https://conda.io/miniconda.html) for more information.
 
-For installing Python and the dependencies locally via Conda, type commonds in your Terminal.
+For installing Python and the dependencies locally via Conda, type following commands in your Terminal.
 
 Add conda-forge channel for extra packages:
 
