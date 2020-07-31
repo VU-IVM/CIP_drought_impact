@@ -19,7 +19,7 @@ def calc_SPI_gs_doy(df_gs, doy):
     rv = stats.gamma(*params) # Continuous random variable class, can sample randomly from the gamma                distribution we just fitted  
     
     # Account for zero values (cfr.Stagge et al. 2015))  
-    indices_nonzero = np.nonzero(df_gs_m)[0]
+    indices_nonzero = np.nonzero(df_gs_m.values)[0]
     nyears_zero = len(df_gs_m) - np.count_nonzero(df_gs_m)
     ratio_zeros = nyears_zero / len(df_gs_m)
 

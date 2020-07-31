@@ -132,6 +132,7 @@ def ds_num2date(ds, loadleap=False):
         input_freq = 'monthly'
     elif timestep_days == 365 or timestep_days == 366:
         input_freq = 'annual'
+
     
     dates = [d.strftime('%Y-%m-%d') for d in dates]
 
