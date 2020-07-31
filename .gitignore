@@ -105,6 +105,7 @@ venv.bak/
 
 # added manually by Sem
 .DS_Store
+Answers/
 Drought Risk Assignment/Answers/
 <<<<<<< HEAD
 .ipynb_checkpoints
