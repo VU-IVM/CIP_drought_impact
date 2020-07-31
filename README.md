@@ -16,9 +16,9 @@ First install Conda, see [miniconda](https://conda.io/miniconda.html) for more i
 For installing Python and the dependencies locally via Conda, type following commands in your Terminal.
 
 Add conda-forge channel for extra packages:
-'''
+'''bash
 conda config --add channels conda-forge
-
+'''
 Create a conda environment for the project and install packages:
 '''
 conda env create -f environment.yml
